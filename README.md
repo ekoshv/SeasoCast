@@ -65,8 +65,8 @@ A GARCH model is applied to the residuals to compute confidence intervals for th
 #### Visualization:
 The script plots the historical close prices alongside the forecasts and their confidence intervals. Additional visualizations include normalized forecast error timeseries by actual and predicted values.
 
-#### Hyperparameter Tuning (Optional):
-An Optuna objective function is provided to optimize parameters like window size, refit steps, and number of seasonal components. This section is commented out by default.
+#### Hyperparameter Tuning:
+An Optuna objective function is provided to optimize parameters like window size, refit steps, and number of seasonal components. This section can be commented out.
 
 ### Prerequisites
 
