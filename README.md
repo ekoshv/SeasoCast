@@ -15,7 +15,8 @@ SeasoCast leverages a combination of time series analysis methods including:
 - **Optuna Optimization (Optional):** Provides a mechanism for hyperparameter tuning, although it is commented out by default.
 
 *Note: This repository is intended for educational purposes only.*
-
+![BTC Prediction Example](Predictions_WF.png)
+![Error of the Forecast](Error_01.png)
 ---
 
 ## Repository Contents
@@ -28,7 +29,7 @@ SeasoCast leverages a combination of time series analysis methods including:
 
 ---
 
-## What you should expect from this!
+## What you should expect from this code!
 ---
 ### Classical Approach to Forecasting
 This project adopts a classical methodology by combining traditional statistical models:
