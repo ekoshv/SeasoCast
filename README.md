@@ -16,7 +16,7 @@ SeasoCast leverages a combination of time series analysis methods including:
 
 *Note: This repository is intended for educational purposes only.*
 ![BTC Prediction Example](Predictions_WF.png)
-![Error of the Forecast](Error_01.png)
+
 ---
 
 ## Repository Contents
