@@ -439,7 +439,7 @@ def analyze_forecast_errors(error_series):
 if __name__ == "__main__":
     # Data Loading
     excel_file = "crypto_data_1D_2017-01-01_to_2025-01-18_20250118_091237.xlsx"
-    sheet_name = "ADA"
+    sheet_name = "BTC"
     df = pd.read_excel(excel_file, sheet_name=sheet_name)
     df.columns = df.columns.str.lower()
     if "datetime" not in df.columns:
